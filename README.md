@@ -1,4 +1,7 @@
 # TOBD1
+
+** This fork is translated to English **
+
 Toyota OBD1 Arduino Scanner
 
 The program is based on code written by talofer99 and GadgetFreak
